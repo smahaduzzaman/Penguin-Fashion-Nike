@@ -1,0 +1,29 @@
+body {
+    overflow-x: hidden;
+}
+
+.header-bg {
+    background-color: #FFF9F4;
+}
+
+.header-top {
+    background-color: #FEEAE9;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.panda-btn-buy-now {
+    background: linear-gradient(to bottom, #FF5898, #FF136F);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    text-decoration: none;
+}
+
+.panda-btn-buy-now:hover {
+    color: #fff;
+}
